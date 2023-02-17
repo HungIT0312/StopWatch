@@ -51,4 +51,10 @@ window.onload=()=>
 
 }
 //just a simple code 
+//just a simple code 
+//just a simple code 
+//just a simple code 
+//just a simple code 
+//just a simple code 
+//just a simple code 
 
